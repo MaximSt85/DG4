@@ -52,7 +52,6 @@ import serial
 import serial.tools.list_ports
 import threading
 import time
-#blabla
 
 
 class read_DG4_Thread(threading.Thread):
